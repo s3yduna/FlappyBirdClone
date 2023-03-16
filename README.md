@@ -1,6 +1,6 @@
 # FlappyBirdClone
 --
-Flappy Bird Clone by Seyduna
+Flappy Bird Clone
 
 -Music = NULL |
 <br></br>
